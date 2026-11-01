@@ -2,7 +2,7 @@
 
 An interactive outreach demo for the paper **"Rewilding Natural Intelligence: The Case for a Conservative Approach in Introducing AI into Space"** by Soumya Banerjee (University of York).
 
-**[Live demo:**](https://neelsoumya.github.io/probe-garden) `https://neelsoumya.github.io/probe-garden/`
+**[Live demo:](https://neelsoumya.github.io/probe-garden)** `https://neelsoumya.github.io/probe-garden/`
 
 ## Central thesis
 
